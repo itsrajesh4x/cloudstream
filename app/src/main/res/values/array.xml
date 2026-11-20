@@ -305,28 +305,14 @@
         <item>Monet2</item>
     </string-array>
 
-    <string-array name="themes_names">
-        <item>Dark</item>
-        <item>Gray</item>
-        <item>Amoled</item>
-        <item>Flashbang</item>
-        <item>System</item>
-        <item>Material You</item>
-        <item>Dracula</item>
-        <item>Lavender Dreams</item>
-        <item>Silent Blue</item>
-    </string-array>
-    <string-array name="themes_names_values">
-        <item>AmoledLight</item>
-        <item>Black</item>
-        <item>Amoled</item>
-        <item>Light</item>
-        <item>System</item>
-        <item>Monet</item>
-        <item>Dracula</item>
-        <item>Lavender</item>
-        <item>SilentBlue</item>
-    </string-array>
+            <string-array name="themes_names">
+            <item>Black</item>
+            <item>White</item>
+        </string-array>
+            <string-array name="themes_names_values">
+            <item>Black</item>
+            <item>Light</item>
+        </string-array>
 
     <string-array name="extension_statuses">
         <item>Down</item>
