@@ -19,7 +19,7 @@ MY INSTA ID @ITS__RAJESH__4X
 
 <a id="about_us"></a>
 
-## About us: 
+
 
 **CloudStream is a media center that prioritizes and emphasizes complete freedom and flexibility for users and developers.** 
 
