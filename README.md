@@ -3,7 +3,7 @@
 **⚠️ Warning: By default, this app doesn't provide any video sources; you have to install extensions to add functionality to the app.**
 <p align="left"><a href="https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk"><img src=".github/images/download-cloudstream-pre.png" alt="Download Cloudstream Pre-Release" width=430/></a></p>
 
-MY INSTAGRAM ID @ITS__RAJESH__4X
+MY INSTA ID @ITS__RAJESH__4X
 
 ## Table of Contents: 
 + [About Us:](#about_us)
