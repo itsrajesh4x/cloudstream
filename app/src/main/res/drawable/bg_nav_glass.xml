@@ -6,7 +6,7 @@
             <corners
                 android:topLeftRadius="28dp"
                 android:topRightRadius="28dp" />
-            <solid android:color="#AA1C1D20" />
+            <solid android:color="#663A3D4D" />
         </shape>
     </item>
 
@@ -17,8 +17,8 @@
                 android:topRightRadius="28dp" />
             <gradient
                 android:angle="90"
-                android:startColor="#3DFFFFFF"
-                android:centerColor="#14FFFFFF"
+                android:startColor="#73FFFFFF"
+                android:centerColor="#26FFFFFF"
                 android:endColor="#00FFFFFF"
                 android:type="linear" />
         </shape>
@@ -31,8 +31,8 @@
                 android:topRightRadius="28dp" />
             <solid android:color="@android:color/transparent" />
             <stroke
-                android:width="1dp"
-                android:color="#40FFFFFF" />
+                android:width="1.5dp"
+                android:color="#80FFFFFF" />
         </shape>
     </item>
 
